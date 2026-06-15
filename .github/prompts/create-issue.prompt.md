@@ -1,5 +1,7 @@
 ﻿---
-description: GitHub.comにIssueを作成する（テンプレート自動選択 + GitHub MCP）
+name: create-issue
+description: GitHub.comにIssueを作成します。
+argument-hint: "背景・目的・依頼内容を簡潔に記載してください。"
 tools: [github/issue_write]
 ---
 
